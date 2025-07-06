@@ -1,0 +1,6 @@
+TG-Bot/
+│
+├── bot.py
+├── requirements.txt
+└── models/
+    └── ghibli.ckpt        # your fine-tuned model checkpoint
