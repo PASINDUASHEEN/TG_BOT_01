@@ -7,7 +7,7 @@ import torch
 from PIL import Image
 from moviepy.editor import ImageClip, AudioFileClip, concatenate_videoclips
 
-BOT_TOKEN = os.getenv("BOT_TOKEN")
+BOT_TOKEN = os.getenv("7906989815:AAExeI0EtZy1tDXI30bKVa2yRzm8W0ahjEY")
 MODEL_PATH = "models/ghibli.ckpt"
 
 bot = telebot.TeleBot(BOT_TOKEN)
